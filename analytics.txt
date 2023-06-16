@@ -1,0 +1,2 @@
+- Get the total amount made by the service per month for each year
+- Get the highest transacting customer (pick-up and reserve) for each quater for each year. What percentage of the total amount by the service did they make?
