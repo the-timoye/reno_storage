@@ -1,2 +1,12 @@
 - Get the total amount made by the service per month for each year
-- Get the highest transacting customer (pick-up and reserve) for each quater for each year. What percentage of the total amount by the service did they make?
+- Get the highest transacting customer (pick-up and reserve) for each year?
+
+------------------------------------------------------------------------------------------------------------
+MAIN TRANSFORMATION
+------------------------------------------------------------------------------------------------------------
+
+- Male vs Female Customers
+- Where do most of the customers reside?
+- Whem was the last time customer Stephi Samart transacted? What did they do?
+- Who are the people that reserved in storage center 288 on 28th February 2021? Order by the highest payer and the quantity they reserved/dropped off.
+- How many people left their residing states in the second quater of 2022 and 2023? How much did they spend?
