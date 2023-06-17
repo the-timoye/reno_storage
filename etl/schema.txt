@@ -1,0 +1,57 @@
+------------------------------------------------------------------------------------------------------------
+                                                FACT(S) 
+------------------------------------------------------------------------------------------------------------
+
+storage_transactions (fact)
+- transaction_id
+- customer_id
+- storage_id
+- date_id
+- action_id
+- space_qty
+- charge_per_space
+- total_amount (space_qty * charge_per_space)
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+DIMENSIONS
+------------------------------------------------------------------------------------------------------------
+ CUSTOMERS (dim)
+ - id
+ - first_name
+ - last_name
+ - email
+ - gender
+ - website
+ - city
+ - postal_code
+ - state
+ - country
+
+
+ STORAGES (dim)
+- id
+- room_number
+- street_address
+- state
+- country
+- opens_at
+- closes_at
+- charge_per_space
+
+dates
+- id
+- date
+- year
+- quater
+- month
+- day
+
+
+actions
+- id
+- name
