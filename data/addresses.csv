@@ -1,0 +1,201 @@
+,id,city,postal_code,country,country_code,state
+0,1,Cincinnati,45264,United States,US,Ohio
+1,2,Atlanta,30316,United States,US,Georgia
+2,3,Houston,77206,United States,US,Texas
+3,4,Jamaica,11407,United States,US,New York
+4,5,Los Angeles,90040,United States,US,California
+5,6,Herndon,22070,United States,US,Virginia
+6,7,Long Beach,90831,United States,US,California
+7,8,Washington,20238,United States,US,District of Columbia
+8,9,Rockford,61105,United States,US,Illinois
+9,10,Tacoma,98447,United States,US,Washington
+10,11,Little Rock,72209,United States,US,Arkansas
+11,12,Spokane,99210,United States,US,Washington
+12,13,El Paso,79968,United States,US,Texas
+13,14,Santa Clara,95054,United States,US,California
+14,15,Metairie,70005,United States,US,Louisiana
+15,16,Tampa,33615,United States,US,Florida
+16,17,Bronx,10459,United States,US,New York
+17,18,El Paso,79950,United States,US,Texas
+18,19,El Paso,88546,United States,US,Texas
+19,20,Nashville,37215,United States,US,Tennessee
+20,21,East Saint Louis,62205,United States,US,Illinois
+21,22,Cleveland,44105,United States,US,Ohio
+22,23,Washington,20057,United States,US,District of Columbia
+23,24,Portland,97296,United States,US,Oregon
+24,25,Springfield,1152,United States,US,Massachusetts
+25,26,Tyler,75799,United States,US,Texas
+26,27,West Palm Beach,33405,United States,US,Florida
+27,28,Lexington,40576,United States,US,Kentucky
+28,29,Buffalo,14269,United States,US,New York
+29,30,Dallas,75392,United States,US,Texas
+30,31,Saint Petersburg,33710,United States,US,Florida
+31,32,Boise,83732,United States,US,Idaho
+32,33,Philadelphia,19172,United States,US,Pennsylvania
+33,34,Pittsburgh,15286,United States,US,Pennsylvania
+34,35,Silver Spring,20904,United States,US,Maryland
+35,36,Rochester,14614,United States,US,New York
+36,37,Richmond,23228,United States,US,Virginia
+37,38,Jamaica,11436,United States,US,New York
+38,39,Omaha,68117,United States,US,Nebraska
+39,40,Peoria,85383,United States,US,Arizona
+40,41,Washington,20425,United States,US,District of Columbia
+41,42,Saint Cloud,56372,United States,US,Minnesota
+42,43,Kansas City,64199,United States,US,Missouri
+43,44,Springfield,62776,United States,US,Illinois
+44,45,Sandy,84093,United States,US,Utah
+45,46,Pasadena,91109,United States,US,California
+46,47,Charleston,29424,United States,US,South Carolina
+47,48,San Antonio,78235,United States,US,Texas
+48,49,Charlottesville,22908,United States,US,Virginia
+49,50,Los Angeles,90050,United States,US,California
+50,51,Boston,2114,United States,US,Massachusetts
+51,52,Providence,2912,United States,US,Rhode Island
+52,53,Washington,20575,United States,US,District of Columbia
+53,54,Lansing,48930,United States,US,Michigan
+54,55,Corpus Christi,78475,United States,US,Texas
+55,56,El Paso,79934,United States,US,Texas
+56,57,Fort Lauderdale,33355,United States,US,Florida
+57,58,Little Rock,72222,United States,US,Arkansas
+58,59,Saint Joseph,64504,United States,US,Missouri
+59,60,Bakersfield,93381,United States,US,California
+60,61,Charlotte,28263,United States,US,North Carolina
+61,62,San Antonio,78225,United States,US,Texas
+62,63,Saint Cloud,56398,United States,US,Minnesota
+63,64,Los Angeles,90015,United States,US,California
+64,65,San Francisco,94110,United States,US,California
+65,66,Trenton,8650,United States,US,New Jersey
+66,67,Albany,12237,United States,US,New York
+67,68,Berkeley,94705,United States,US,California
+68,69,Cleveland,44197,United States,US,Ohio
+69,70,Fort Lauderdale,33336,United States,US,Florida
+70,71,Washington,20409,United States,US,District of Columbia
+71,72,El Paso,79968,United States,US,Texas
+72,73,Amarillo,79165,United States,US,Texas
+73,74,Los Angeles,90055,United States,US,California
+74,75,Saint Cloud,56398,United States,US,Minnesota
+75,76,Colorado Springs,80940,United States,US,Colorado
+76,77,Tampa,33633,United States,US,Florida
+77,78,San Diego,92121,United States,US,California
+78,79,San Diego,92170,United States,US,California
+79,80,Ridgely,21684,United States,US,Maryland
+80,81,Albuquerque,87140,United States,US,New Mexico
+81,82,Cleveland,44185,United States,US,Ohio
+82,83,Dallas,75221,United States,US,Texas
+83,84,Madison,53716,United States,US,Wisconsin
+84,85,San Diego,92105,United States,US,California
+85,86,Washington,20470,United States,US,District of Columbia
+86,87,Miami,33196,United States,US,Florida
+87,88,Irvine,92612,United States,US,California
+88,89,El Paso,79905,United States,US,Texas
+89,90,Myrtle Beach,29579,United States,US,South Carolina
+90,91,Reno,89519,United States,US,Nevada
+91,92,Shreveport,71115,United States,US,Louisiana
+92,93,Colorado Springs,80951,United States,US,Colorado
+93,94,Silver Spring,20918,United States,US,Maryland
+94,95,Louisville,40210,United States,US,Kentucky
+95,96,Athens,30605,United States,US,Georgia
+96,97,Boynton Beach,33436,United States,US,Florida
+97,98,Oakland,94627,United States,US,California
+98,99,Lawrenceville,30045,United States,US,Georgia
+99,100,Bismarck,58505,United States,US,North Dakota
+100,101,Boston,2114,United States,US,Massachusetts
+101,102,Washington,20005,United States,US,District of Columbia
+102,103,Buffalo,14225,United States,US,New York
+103,104,Atlanta,30343,United States,US,Georgia
+104,105,Pompano Beach,33069,United States,US,Florida
+105,106,Columbus,43220,United States,US,Ohio
+106,107,Mesa,85215,United States,US,Arizona
+107,108,Carlsbad,92013,United States,US,California
+108,109,Winston Salem,27105,United States,US,North Carolina
+109,110,Indianapolis,46254,United States,US,Indiana
+110,111,Minneapolis,55446,United States,US,Minnesota
+111,112,Miami,33142,United States,US,Florida
+112,113,Salem,97312,United States,US,Oregon
+113,114,Tulsa,74184,United States,US,Oklahoma
+114,115,Wilmington,28405,United States,US,North Carolina
+115,116,Huntington,25775,United States,US,West Virginia
+116,117,Sioux City,51105,United States,US,Iowa
+117,118,Fort Worth,76129,United States,US,Texas
+118,119,Milwaukee,53263,United States,US,Wisconsin
+119,120,Fresno,93773,United States,US,California
+120,121,Washington,20036,United States,US,District of Columbia
+121,122,Denver,80249,United States,US,Colorado
+122,123,Raleigh,27635,United States,US,North Carolina
+123,124,Kent,98042,United States,US,Washington
+124,125,Des Moines,50981,United States,US,Iowa
+125,126,Wichita,67205,United States,US,Kansas
+126,127,Des Moines,50362,United States,US,Iowa
+127,128,Valdosta,31605,United States,US,Georgia
+128,129,Lima,45807,United States,US,Ohio
+129,130,Bridgeport,6606,United States,US,Connecticut
+130,131,Sandy,84093,United States,US,Utah
+131,132,West Palm Beach,33416,United States,US,Florida
+132,133,Washington,20392,United States,US,District of Columbia
+133,134,Vancouver,98682,United States,US,Washington
+134,135,New Orleans,70187,United States,US,Louisiana
+135,136,Miami,33142,United States,US,Florida
+136,137,New York City,10170,United States,US,New York
+137,138,Des Moines,50335,United States,US,Iowa
+138,139,Trenton,8603,United States,US,New Jersey
+139,140,Paterson,7505,United States,US,New Jersey
+140,141,Huntington,25711,United States,US,West Virginia
+141,142,Sacramento,94291,United States,US,California
+142,143,Memphis,38126,United States,US,Tennessee
+143,144,Orlando,32825,United States,US,Florida
+144,145,Pensacola,32575,United States,US,Florida
+145,146,Richmond,23220,United States,US,Virginia
+146,147,Kansas City,64179,United States,US,Missouri
+147,148,Oklahoma City,73173,United States,US,Oklahoma
+148,149,Los Angeles,90071,United States,US,California
+149,150,Reno,89510,United States,US,Nevada
+150,151,Brooklyn,11205,United States,US,New York
+151,152,Nashville,37205,United States,US,Tennessee
+152,153,Lexington,40505,United States,US,Kentucky
+153,154,Huntington,25705,United States,US,West Virginia
+154,155,Macon,31217,United States,US,Georgia
+155,156,Mobile,36605,United States,US,Alabama
+156,157,Washington,20575,United States,US,District of Columbia
+157,158,Anaheim,92825,United States,US,California
+158,159,Merrifield,22119,United States,US,Virginia
+159,160,Bridgeport,6673,United States,US,Connecticut
+160,161,Providence,2905,United States,US,Rhode Island
+161,162,Burbank,91520,United States,US,California
+162,163,Tacoma,98442,United States,US,Washington
+163,164,Miami,33153,United States,US,Florida
+164,165,Des Moines,50936,United States,US,Iowa
+165,166,Green Bay,54305,United States,US,Wisconsin
+166,167,Atlanta,30380,United States,US,Georgia
+167,168,Houston,77299,United States,US,Texas
+168,169,Roanoke,24009,United States,US,Virginia
+169,170,Omaha,68105,United States,US,Nebraska
+170,171,Houston,77095,United States,US,Texas
+171,172,Saint Louis,63121,United States,US,Missouri
+172,173,Salt Lake City,84115,United States,US,Utah
+173,174,Falls Church,22047,United States,US,Virginia
+174,175,Toledo,43635,United States,US,Ohio
+175,176,Honolulu,96850,United States,US,Hawaii
+176,177,Irving,75037,United States,US,Texas
+177,178,Jacksonville,32236,United States,US,Florida
+178,179,Amarillo,79176,United States,US,Texas
+179,180,Brockton,2405,United States,US,Massachusetts
+180,181,Houston,77025,United States,US,Texas
+181,182,Tyler,75799,United States,US,Texas
+182,183,Hamilton,45020,United States,US,Ohio
+183,184,Arlington,76011,United States,US,Texas
+184,185,Houston,77025,United States,US,Texas
+185,186,Farmington,48335,United States,US,Michigan
+186,187,Aurora,80015,United States,US,Colorado
+187,188,Seattle,98158,United States,US,Washington
+188,189,Charlotte,28284,United States,US,North Carolina
+189,190,Providence,2912,United States,US,Rhode Island
+190,191,Detroit,48211,United States,US,Michigan
+191,192,Alpharetta,30022,United States,US,Georgia
+192,193,Houston,77020,United States,US,Texas
+193,194,New York City,10105,United States,US,New York
+194,195,Valdosta,31605,United States,US,Georgia
+195,196,Miami,33175,United States,US,Florida
+196,197,Baton Rouge,70815,United States,US,Louisiana
+197,198,Albuquerque,87180,United States,US,New Mexico
+198,199,Mesquite,75185,United States,US,Texas
+199,200,Washington,20557,United States,US,District of Columbia

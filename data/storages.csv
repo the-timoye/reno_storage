@@ -1,0 +1,301 @@
+,id,room_number,street_address,state,country,opens_at,closes_at,charge_per_space
+0,1,68,790 Bellgrove Pass,Georgia,United States,10,22,$27.90
+1,2,394,8518 Marquette Trail,Tennessee,United States,6,20,$30.19
+2,3,4,7406 Hauk Crossing,Florida,United States,8,22,$6.81
+3,4,985,10290 Donald Plaza,District of Columbia,United States,10,13,$6.63
+4,5,2,8634 Harbort Plaza,Arizona,United States,5,23,$13.09
+5,6,990,2409 Forster Road,Ohio,United States,5,19,$34.47
+6,7,34,00 Iowa Terrace,Ohio,United States,6,20,$16.88
+7,8,63,9 Coolidge Pass,Texas,United States,7,21,$13.60
+8,9,892,113 Spaight Hill,Texas,United States,9,16,$15.07
+9,10,43,5 Summit Hill,California,United States,7,18,$8.24
+10,11,47,35227 3rd Avenue,Iowa,United States,8,23,$13.17
+11,12,5,33698 Burrows Crossing,New York,United States,7,23,$10.15
+12,13,3,4344 Reindahl Plaza,Texas,United States,7,12,$13.09
+13,14,3979,07 Kropf Street,Oklahoma,United States,8,23,$21.23
+14,15,61,51 Paget Terrace,Idaho,United States,7,21,$25.24
+15,16,48,59749 Fisk Street,Texas,United States,10,16,$18.83
+16,17,5,93 Butternut Street,Iowa,United States,9,17,$15.60
+17,18,2,1699 Sutherland Center,Delaware,United States,9,23,$23.29
+18,19,6,13948 Canary Junction,California,United States,5,15,$16.46
+19,20,4196,500 Melby Pass,Oklahoma,United States,6,20,$26.08
+20,21,24605,13 Morningstar Terrace,Kentucky,United States,10,23,$13.35
+21,22,13558,13735 Elmside Street,Pennsylvania,United States,8,12,$16.67
+22,23,206,02794 Twin Pines Drive,Florida,United States,7,17,$29.50
+23,24,5,11 Marquette Parkway,Tennessee,United States,7,14,$30.07
+24,25,5,1 Miller Way,Minnesota,United States,7,22,$7.41
+25,26,1396,4163 Coolidge Crossing,Connecticut,United States,10,21,$6.78
+26,27,22176,59 Norway Maple Parkway,Georgia,United States,6,13,$8.79
+27,28,7,69 Elmside Alley,North Carolina,United States,5,14,$32.83
+28,29,3,77 Bultman Street,Texas,United States,5,17,$24.85
+29,30,2858,32 Pine View Park,Texas,United States,5,23,$11.88
+30,31,122,41 Fuller Park,Florida,United States,8,13,$34.99
+31,32,486,05467 Logan Road,Virginia,United States,6,23,$24.34
+32,33,9,29 Summer Ridge Junction,California,United States,9,22,$5.00
+33,34,97,99187 Dayton Pass,Ohio,United States,7,20,$12.07
+34,35,2,67730 Tomscot Alley,California,United States,9,22,$14.78
+35,36,662,771 Sheridan Parkway,New York,United States,8,13,$9.23
+36,37,996,2 Lakewood Point,Delaware,United States,6,24,$27.21
+37,38,8,8 Heffernan Way,Pennsylvania,United States,7,18,$22.74
+38,39,78074,3 Tomscot Place,Mississippi,United States,7,13,$28.00
+39,40,27354,61 Morrow Center,California,United States,8,24,$15.72
+40,41,5,94 Fairview Avenue,Oregon,United States,8,14,$15.68
+41,42,77,26186 Homewood Plaza,Massachusetts,United States,9,21,$33.54
+42,43,35,2 Bluestem Circle,California,United States,7,15,$18.09
+43,44,47,94592 Division Junction,Wisconsin,United States,10,19,$5.01
+44,45,813,27400 Dixon Avenue,Ohio,United States,9,12,$22.74
+45,46,88,3335 Carioca Park,Louisiana,United States,10,23,$6.50
+46,47,4,47291 Basil Plaza,California,United States,5,15,$16.05
+47,48,3,328 Marcy Junction,Florida,United States,5,21,$18.90
+48,49,88,5 Merchant Place,Texas,United States,10,24,$32.68
+49,50,32,97 Badeau Place,California,United States,9,17,$11.64
+50,51,296,36 Morrow Road,Wisconsin,United States,5,23,$34.46
+51,52,42732,8 Debra Parkway,Texas,United States,9,13,$22.07
+52,53,8681,6112 Vermont Lane,Michigan,United States,7,15,$11.81
+53,54,86,33167 Spohn Lane,Florida,United States,5,20,$13.13
+54,55,73644,6 Redwing Pass,California,United States,6,19,$7.46
+55,56,392,2154 Del Sol Avenue,Connecticut,United States,10,19,$28.73
+56,57,30237,4 Hanover Street,Illinois,United States,10,24,$13.97
+57,58,1,2 Moulton Terrace,Pennsylvania,United States,7,23,$24.61
+58,59,3,6534 Muir Crossing,Texas,United States,10,18,$12.57
+59,60,4,265 Mandrake Junction,California,United States,10,18,$21.64
+60,61,25,94525 Waubesa Circle,North Dakota,United States,8,18,$34.32
+61,62,394,4 Lyons Parkway,California,United States,6,20,$5.87
+62,63,6,752 Hazelcrest Parkway,Florida,United States,10,12,$32.65
+63,64,181,011 Sutteridge Park,Massachusetts,United States,9,15,$16.05
+64,65,71,73753 Swallow Plaza,Alabama,United States,9,23,$30.85
+65,66,15,6 Redwing Hill,Illinois,United States,8,24,$5.21
+66,67,357,031 Coolidge Drive,Florida,United States,9,21,$6.33
+67,68,545,18780 Jenifer Junction,Louisiana,United States,7,16,$12.26
+68,69,346,6 Dryden Center,North Carolina,United States,9,15,$29.71
+69,70,60,63 Eagle Crest Parkway,Indiana,United States,8,16,$26.09
+70,71,5,69216 Longview Park,Kansas,United States,9,24,$11.85
+71,72,6,98 Green Parkway,Texas,United States,7,12,$12.20
+72,73,967,72 Wayridge Crossing,Texas,United States,8,22,$25.04
+73,74,502,32587 Prentice Lane,New Mexico,United States,5,16,$28.47
+74,75,69,7 Nova Parkway,Missouri,United States,7,24,$34.49
+75,76,8124,2 Towne Trail,Washington,United States,6,15,$23.94
+76,77,803,96834 Maryland Drive,Kansas,United States,10,12,$5.35
+77,78,996,2304 Gale Parkway,Hawaii,United States,6,22,$15.95
+78,79,89873,0282 Knutson Avenue,New York,United States,7,16,$22.10
+79,80,38032,69661 Moland Alley,Texas,United States,9,20,$15.43
+80,81,8,46373 Del Mar Point,California,United States,7,22,$32.66
+81,82,7786,73509 Marcy Court,Florida,United States,7,16,$27.22
+82,83,5,859 Hansons Terrace,Washington,United States,5,14,$15.20
+83,84,50,7 Kingsford Circle,Virginia,United States,9,24,$18.71
+84,85,518,6 Arizona Center,New Jersey,United States,9,18,$32.64
+85,86,592,34 Eliot Court,West Virginia,United States,7,21,$18.29
+86,87,347,8 Oak Valley Avenue,Florida,United States,7,21,$15.83
+87,88,6829,54 Gulseth Circle,Florida,United States,7,12,$31.30
+88,89,35,475 Hagan Crossing,North Carolina,United States,8,13,$8.66
+89,90,223,39 Straubel Junction,Missouri,United States,6,17,$20.24
+90,91,51,1 Columbus Hill,California,United States,7,15,$27.62
+91,92,86640,64 Marcy Road,California,United States,8,24,$15.73
+92,93,2,53 Bobwhite Circle,Tennessee,United States,5,16,$5.72
+93,94,4692,008 Pond Parkway,Ohio,United States,9,17,$9.45
+94,95,5939,358 Mallory Alley,New York,United States,5,24,$15.66
+95,96,99,77 Kensington Terrace,Pennsylvania,United States,8,17,$14.57
+96,97,98771,7 Packers Park,California,United States,8,16,$26.77
+97,98,965,41 Kim Drive,Florida,United States,10,19,$29.25
+98,99,613,617 Hauk Drive,California,United States,10,24,$12.56
+99,100,571,35 Hermina Circle,Tennessee,United States,8,24,$17.73
+100,101,5076,74883 Heath Avenue,Arizona,United States,8,13,$22.85
+101,102,51834,4 Magdeline Road,Pennsylvania,United States,10,24,$7.34
+102,103,331,471 Clemons Center,Maryland,United States,9,24,$27.52
+103,104,0,146 International Junction,California,United States,7,18,$8.95
+104,105,53085,73 Shopko Crossing,Colorado,United States,6,19,$22.16
+105,106,74,64 Graceland Place,Kentucky,United States,7,13,$33.33
+106,107,981,26238 Elmside Road,District of Columbia,United States,7,22,$14.31
+107,108,634,92010 Oak Center,Alabama,United States,5,23,$14.14
+108,109,72188,913 Main Crossing,Idaho,United States,10,22,$5.02
+109,110,37,3617 Roxbury Point,California,United States,7,12,$24.11
+110,111,211,36 Independence Way,Arizona,United States,10,17,$9.60
+111,112,5201,6945 Holmberg Alley,California,United States,9,17,$28.37
+112,113,88006,1826 Everett Alley,New York,United States,7,18,$26.79
+113,114,9,2 Messerschmidt Drive,Colorado,United States,8,22,$23.63
+114,115,847,63 Hallows Pass,Alaska,United States,9,21,$5.87
+115,116,40274,387 Village Pass,California,United States,8,21,$15.58
+116,117,96,9960 Monica Way,Arizona,United States,7,21,$19.69
+117,118,9757,92 Maple Wood Point,Kentucky,United States,9,23,$17.90
+118,119,4008,35 Bartillon Park,Michigan,United States,5,16,$31.97
+119,120,471,79 Rusk Center,California,United States,7,17,$18.63
+120,121,7,5281 Meadow Ridge Alley,Texas,United States,9,19,$7.96
+121,122,3757,627 Bluestem Lane,California,United States,5,22,$34.09
+122,123,70876,23 Golden Leaf Pass,Texas,United States,8,21,$9.60
+123,124,81,669 Forest Run Trail,Virginia,United States,7,17,$20.37
+124,125,2,1556 Del Sol Point,Connecticut,United States,7,12,$10.70
+125,126,552,3 Sullivan Pass,Florida,United States,8,14,$14.73
+126,127,912,16 Arrowood Court,Minnesota,United States,5,12,$11.68
+127,128,4,4471 Kedzie Crossing,Minnesota,United States,6,13,$10.65
+128,129,294,2200 Blaine Street,Colorado,United States,9,16,$15.49
+129,130,21,9 Fairview Junction,Alaska,United States,5,14,$26.71
+130,131,88,72336 Annamark Pass,Florida,United States,5,15,$11.14
+131,132,639,3304 Spohn Street,Illinois,United States,10,16,$23.77
+132,133,4817,9732 Macpherson Road,Florida,United States,9,14,$12.02
+133,134,20,73271 Myrtle Hill,Oregon,United States,6,15,$27.59
+134,135,6940,6591 Arrowood Terrace,New York,United States,8,21,$11.36
+135,136,0,5484 Calypso Plaza,Virginia,United States,9,12,$32.40
+136,137,63679,7 Utah Lane,Colorado,United States,10,12,$17.43
+137,138,9022,5468 South Street,Florida,United States,7,20,$19.40
+138,139,20204,9 Evergreen Plaza,California,United States,7,22,$33.31
+139,140,839,8 Kim Trail,Florida,United States,10,17,$13.70
+140,141,99,9200 Crescent Oaks Junction,New York,United States,5,15,$30.81
+141,142,4,84366 Mayer Point,Florida,United States,6,18,$26.69
+142,143,56406,410 Jenifer Center,Missouri,United States,7,17,$33.89
+143,144,43040,0112 Karstens Park,Nebraska,United States,9,19,$32.16
+144,145,233,057 Rusk Parkway,California,United States,5,13,$15.24
+145,146,96,59936 Autumn Leaf Terrace,Tennessee,United States,9,19,$5.02
+146,147,16854,21140 Elgar Junction,Texas,United States,8,13,$23.48
+147,148,79318,88276 Moulton Pass,California,United States,5,13,$25.84
+148,149,83,9 Elmside Court,Michigan,United States,7,23,$6.23
+149,150,976,7 Talmadge Crossing,Kansas,United States,8,17,$30.60
+150,151,19,613 Stoughton Road,Louisiana,United States,6,15,$21.96
+151,152,4998,5644 Independence Drive,Michigan,United States,9,21,$24.10
+152,153,31027,5 Vahlen Crossing,West Virginia,United States,6,14,$22.60
+153,154,91,05 Fordem Avenue,Nevada,United States,8,23,$21.64
+154,155,43787,7 Hagan Terrace,North Dakota,United States,8,21,$15.13
+155,156,1,249 Helena Street,Florida,United States,7,16,$16.40
+156,157,9,06 Maple Alley,Texas,United States,9,22,$28.82
+157,158,1,41 Garrison Avenue,Kansas,United States,9,19,$29.83
+158,159,63,0975 David Alley,District of Columbia,United States,10,12,$15.89
+159,160,95,3059 Raven Point,Alabama,United States,6,24,$16.69
+160,161,697,71754 Toban Street,Ohio,United States,8,16,$6.30
+161,162,9071,54542 5th Way,Pennsylvania,United States,5,13,$21.07
+162,163,95,53 Ryan Way,New Jersey,United States,6,16,$19.85
+163,164,9,4 Brentwood Road,Louisiana,United States,8,21,$6.39
+164,165,5225,14078 Bunting Road,Illinois,United States,9,15,$15.72
+165,166,64,040 Fisk Court,New York,United States,7,20,$23.94
+166,167,2775,11 Blue Bill Park Place,New York,United States,8,24,$18.17
+167,168,34,35657 Farragut Junction,Oregon,United States,5,15,$21.19
+168,169,970,8756 Grover Hill,Ohio,United States,5,18,$22.77
+169,170,49,15 Dryden Pass,California,United States,5,16,$9.76
+170,171,6605,21 Evergreen Hill,Florida,United States,8,12,$32.68
+171,172,6138,8102 Monument Circle,California,United States,7,14,$19.61
+172,173,9,43 Loomis Trail,Indiana,United States,8,16,$9.86
+173,174,70365,07 Bayside Way,Missouri,United States,10,18,$11.15
+174,175,697,50 Ridgeview Pass,Texas,United States,6,21,$12.85
+175,176,84,18092 Hagan Trail,Kansas,United States,8,22,$22.01
+176,177,56698,8179 Cardinal Drive,Maryland,United States,8,17,$13.50
+177,178,59,4 Lunder Crossing,California,United States,7,15,$14.55
+178,179,65,338 Logan Parkway,Tennessee,United States,9,22,$21.32
+179,180,78,10 Linden Circle,Illinois,United States,6,20,$24.96
+180,181,658,14 Northwestern Center,Ohio,United States,9,18,$5.34
+181,182,237,8864 Katie Junction,Ohio,United States,5,24,$8.86
+182,183,6437,39 Troy Parkway,North Carolina,United States,6,17,$30.77
+183,184,7,281 Kinsman Pass,Indiana,United States,10,12,$8.56
+184,185,2,9 Anhalt Lane,Louisiana,United States,6,18,$5.11
+185,186,5,25320 Colorado Alley,Nevada,United States,10,18,$8.68
+186,187,5,6487 Paget Terrace,Florida,United States,10,21,$30.09
+187,188,71,6 7th Terrace,California,United States,6,15,$7.46
+188,189,969,29 Farragut Park,Delaware,United States,6,14,$14.87
+189,190,70,242 Bonner Place,South Dakota,United States,9,22,$33.81
+190,191,80451,81 Drewry Plaza,Florida,United States,6,17,$21.64
+191,192,957,85886 Bartelt Court,Arkansas,United States,5,19,$12.34
+192,193,48,454 Banding Point,Texas,United States,5,20,$34.64
+193,194,6637,9 Jay Crossing,Louisiana,United States,8,23,$11.30
+194,195,5,70 Moland Junction,Florida,United States,7,20,$26.07
+195,196,355,80001 Bayside Crossing,Georgia,United States,10,24,$22.59
+196,197,6715,787 American Place,Illinois,United States,5,18,$16.40
+197,198,4843,8550 Steensland Center,California,United States,6,22,$26.90
+198,199,622,76 Lotheville Road,Florida,United States,8,19,$9.12
+199,200,0,6842 High Crossing Center,New York,United States,8,18,$6.78
+200,201,10,3216 Linden Alley,California,United States,6,19,$29.92
+201,202,27,11812 Gale Center,Louisiana,United States,8,17,$9.61
+202,203,22365,1 Stoughton Avenue,Louisiana,United States,9,12,$8.06
+203,204,105,9 Crowley Junction,Nevada,United States,7,20,$14.71
+204,205,71,2991 Ryan Street,New Mexico,United States,7,19,$33.95
+205,206,7571,8 Crest Line Street,Florida,United States,10,23,$6.06
+206,207,2,523 Meadow Valley Point,Ohio,United States,6,15,$24.59
+207,208,2,0 Kennedy Park,Colorado,United States,8,23,$24.74
+208,209,28103,72 Buena Vista Trail,New York,United States,5,19,$21.77
+209,210,52,8405 Mariners Cove Crossing,Ohio,United States,5,18,$10.91
+210,211,99,5 Roxbury Plaza,Arkansas,United States,7,23,$13.19
+211,212,60,84 Bashford Park,New York,United States,10,13,$15.75
+212,213,154,075 Sage Lane,Wisconsin,United States,10,23,$10.76
+213,214,123,17727 Fremont Place,Texas,United States,5,21,$25.97
+214,215,6878,20 Maple Trail,Florida,United States,10,13,$14.32
+215,216,7,01 Buena Vista Avenue,District of Columbia,United States,5,24,$16.05
+216,217,59,04434 Cambridge Plaza,California,United States,8,12,$5.81
+217,218,352,54246 Amoth Plaza,Illinois,United States,7,14,$20.97
+218,219,9,11636 Kenwood Drive,Indiana,United States,7,15,$16.51
+219,220,39653,23 Fairfield Pass,Nevada,United States,9,23,$22.42
+220,221,3,0 Riverside Alley,California,United States,10,16,$30.83
+221,222,228,719 7th Terrace,Utah,United States,6,12,$19.20
+222,223,2,274 New Castle Parkway,Indiana,United States,9,19,$8.90
+223,224,2342,87480 Village Green Court,New York,United States,7,22,$26.90
+224,225,8,70826 Loomis Drive,Oregon,United States,10,18,$15.40
+225,226,8,6604 Killdeer Circle,Texas,United States,10,16,$27.94
+226,227,9071,55 Westridge Pass,California,United States,10,19,$16.54
+227,228,20,1531 Fordem Hill,Virginia,United States,7,15,$28.20
+228,229,9,98042 Rusk Plaza,South Carolina,United States,7,22,$17.88
+229,230,7861,72213 Declaration Lane,Maryland,United States,5,17,$28.77
+230,231,518,24 Dapin Junction,California,United States,10,13,$27.98
+231,232,2376,6 Reinke Crossing,Hawaii,United States,5,16,$12.72
+232,233,34689,4527 Lakewood Gardens Crossing,Pennsylvania,United States,8,23,$19.35
+233,234,7,159 Mallory Drive,California,United States,9,19,$22.74
+234,235,80,8 Morning Road,California,United States,9,16,$17.43
+235,236,4,750 Dwight Road,Texas,United States,9,16,$24.71
+236,237,9439,8114 Autumn Leaf Place,District of Columbia,United States,5,16,$9.51
+237,238,73702,4131 Buena Vista Junction,Nevada,United States,10,16,$10.75
+238,239,662,98 Vernon Center,Oklahoma,United States,8,22,$29.03
+239,240,79551,65 Walton Lane,Virginia,United States,8,24,$9.35
+240,241,16906,70103 Sommers Point,Florida,United States,10,13,$27.92
+241,242,6,3463 Londonderry Junction,Louisiana,United States,6,22,$13.48
+242,243,17,6197 Nelson Point,Ohio,United States,10,16,$25.47
+243,244,4,89 School Crossing,Virginia,United States,7,15,$21.51
+244,245,90300,9 Fair Oaks Drive,District of Columbia,United States,5,15,$10.92
+245,246,7,7 Granby Crossing,West Virginia,United States,10,19,$6.68
+246,247,86000,8 Hooker Drive,Pennsylvania,United States,6,24,$16.36
+247,248,430,73 School Road,Florida,United States,7,19,$27.80
+248,249,4720,85 Emmet Pass,Arizona,United States,8,18,$9.02
+249,250,55288,19 Doe Crossing Court,Texas,United States,7,13,$23.45
+250,251,37,138 Briar Crest Trail,Colorado,United States,9,22,$30.36
+251,252,8,083 Tennyson Point,Texas,United States,8,13,$32.36
+252,253,89,04 Blaine Pass,Missouri,United States,5,19,$33.16
+253,254,21,9 Blue Bill Park Avenue,California,United States,8,18,$32.03
+254,255,134,62472 Del Sol Crossing,Nevada,United States,9,21,$24.75
+255,256,1,74 Brentwood Lane,Louisiana,United States,10,24,$28.67
+256,257,1,572 Maple Wood Court,California,United States,10,15,$27.97
+257,258,39014,4470 Holmberg Lane,New Jersey,United States,8,20,$6.91
+258,259,2,03 Melby Place,Florida,United States,9,19,$18.95
+259,260,8,521 Brown Junction,Florida,United States,5,12,$8.46
+260,261,6,7 Tennessee Drive,Texas,United States,10,12,$26.26
+261,262,3449,6509 Sunbrook Terrace,Washington,United States,9,14,$11.45
+262,263,800,9491 Dakota Center,Texas,United States,6,20,$12.39
+263,264,756,23348 Rutledge Way,District of Columbia,United States,10,19,$21.68
+264,265,580,525 Coolidge Circle,North Carolina,United States,10,12,$23.76
+265,266,80574,0789 Northland Alley,Missouri,United States,10,20,$28.56
+266,267,3996,59 Pepper Wood Crossing,Texas,United States,9,18,$19.14
+267,268,8853,5 Vera Park,Colorado,United States,7,22,$17.90
+268,269,1731,874 Alpine Park,Texas,United States,8,21,$23.68
+269,270,29866,6540 Barby Parkway,Idaho,United States,6,18,$12.08
+270,271,5063,38869 Nobel Place,Maryland,United States,9,14,$11.91
+271,272,733,5 Nancy Place,North Carolina,United States,9,16,$17.06
+272,273,9,1 Michigan Junction,Ohio,United States,10,19,$24.10
+273,274,8232,076 Weeping Birch Alley,Ohio,United States,8,18,$21.94
+274,275,83696,85 Declaration Place,New Mexico,United States,9,20,$11.44
+275,276,4356,85261 Schmedeman Drive,California,United States,5,24,$25.07
+276,277,1,0406 Eastlawn Avenue,Oklahoma,United States,10,13,$18.06
+277,278,56,7070 Towne Terrace,Louisiana,United States,5,24,$22.90
+278,279,8,8 Pawling Parkway,Texas,United States,7,18,$27.11
+279,280,82113,6 Express Place,West Virginia,United States,7,14,$25.54
+280,281,356,9 Rowland Trail,Illinois,United States,10,18,$5.87
+281,282,8864,6247 Iowa Point,California,United States,6,21,$6.50
+282,283,93,0 Rigney Place,Idaho,United States,6,17,$34.12
+283,284,125,032 Mcguire Avenue,Minnesota,United States,9,19,$24.43
+284,285,561,09 Spohn Court,Texas,United States,7,19,$9.66
+285,286,94,481 Kropf Parkway,Louisiana,United States,5,14,$16.11
+286,287,9800,960 Jenifer Trail,California,United States,5,23,$5.41
+287,288,83,698 Sunnyside Crossing,California,United States,6,14,$30.87
+288,289,6,8666 Farwell Court,Florida,United States,8,12,$32.37
+289,290,15336,6800 Autumn Leaf Hill,Alabama,United States,7,12,$34.01
+290,291,92680,5711 Hoffman Junction,Wisconsin,United States,5,18,$10.09
+291,292,7929,5 Hallows Pass,New Hampshire,United States,7,18,$9.31
+292,293,9255,8 Farragut Circle,Texas,United States,5,21,$20.79
+293,294,12,3815 Tony Point,Iowa,United States,7,22,$8.32
+294,295,36,92 Dottie Way,Florida,United States,10,21,$24.13
+295,296,7634,57931 Schlimgen Hill,Georgia,United States,6,15,$28.79
+296,297,2,8256 Welch Terrace,District of Columbia,United States,9,21,$23.84
+297,298,8730,01 Hayes Place,South Carolina,United States,10,23,$14.52
+298,299,13,0782 New Castle Court,Georgia,United States,5,15,$24.86
+299,300,5,6694 Haas Point,Colorado,United States,6,22,$19.74
