@@ -17,13 +17,14 @@ class Dev:
             , first_name TEXT NOT NULL
             , last_name TEXT NOT NULL
             , email TEXT NOT NULL
-            , gender VARCHAR(10) NOT NULL
+            , gender TEXT NOT NULL
             , address_id INT NULL
         )
     """
 
     storages = """
         CREATE TABLE IF NOT EXISTS storages (
+            
             id INT NOT NULL
             , room_number INT NOT NULL
             , street_address TEXT NOT NULL
@@ -52,15 +53,30 @@ class Staging:
     schema = """
         CREATE SCHEMA IF NOT EXISTS {};
     """
+    storage_transactions = """
+        CREATE TABLE IF NOT EXISTS {}.{} (
+        _id INT IDENTITY(0,1)
+        , transaction_id INT NOT NULL
+        , customer_id INT NOT NULL
+        , storage_id INT NOT NULL
+        , date_id INT NOT NULL
+        , action_id INT NOT NULL
+        , space_qty INT NOT NULL
+        , charge_per_space REAL  NULL
+        , total_amount REAL NULL
+        );
+    """
     actions = """
-        CREATE TABLE IF NOT EXISTS {} (
-            id INT NOT NULL
-            name TEXT NOT NULL
+        CREATE TABLE IF NOT EXISTS {}.{} (
+            _id INT IDENTITY(0,1)
+            , id INT NOT NULL
+            , name TEXT NOT NULL
         );
     """
     customers ="""
-            CREATE TABLE IF NOT EXISTS {} (
-            id INT NOT NULL
+            CREATE TABLE IF NOT EXISTS {}.{} (
+            _id INT IDENTITY(0,1)
+            , id INT NOT NULL
             , first_name TEXT NOT NULL
             , last_name TEXT NOT NULL
            , email TEXT NOT NULL
@@ -72,8 +88,9 @@ class Staging:
         );
     """
     storages = """
-        CREATE TABLE IF NOT EXISTS {} (
-           id INT NOT NULL
+        CREATE TABLE IF NOT EXISTS {}.{} (
+        _id INT IDENTITY(0,1)
+           , id INT NOT NULL
             , room_number INT NOT NULL
             , street_address TEXT NOT NULL
             , state TEXT NOT NULL
@@ -84,8 +101,9 @@ class Staging:
          );
     """
     dates = """
-    CREATE TABLE IF NOT EXISTS {} (
-        date
+    CREATE TABLE IF NOT EXISTS {}.{} (
+    _id INT IDENTITY(0,1)
+        , date DATE NOT NULL
         , year INT NOT NULL
         , quater INT NOT NULL
         , month INT NOT NULL
