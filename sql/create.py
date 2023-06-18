@@ -53,6 +53,7 @@ class Staging:
     schema = """
         CREATE SCHEMA IF NOT EXISTS {};
     """
+
     storage_transactions = """
         CREATE TABLE IF NOT EXISTS {}.{} (
         _id INT IDENTITY(0,1)
@@ -69,7 +70,6 @@ class Staging:
     actions = """
         CREATE TABLE IF NOT EXISTS {}.{} (
             _id INT IDENTITY(0,1)
-            , id INT NOT NULL
             , name TEXT NOT NULL
         );
     """
