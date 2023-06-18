@@ -106,7 +106,7 @@ def insert_into_tables():
 
 
 
-def run_create_jobs():
+def run_jobs():
     try:
         create_schema()
         create_tables()

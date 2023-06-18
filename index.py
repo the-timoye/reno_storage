@@ -1,8 +1,13 @@
-from etl.extraction import extract_files
-from etl.transform import transform_files
+from etl.load import run_jobs
+import pandas as pd
 
 
 
 if __name__ == "__main__":
-    extract_files()
-    transform_files()
+    try:
+        run_create_jobs()
+        r
+    except Exception as e:
+        print(e)
+
+    
