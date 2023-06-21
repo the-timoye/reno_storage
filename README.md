@@ -26,18 +26,12 @@ data engineering on storage space services
             root = /
             options = "metadata"
         ```
-        - save the file, then type `nano ~/.bashrc`
-        - paste the below in the file
-            ```
-            export AIRFLOW_HOME=/c/users/YOURNAME/airflowhome
-            ```
-        - save the file
 
 ### For All OS Users
 - Step 4: Install airflow
     - use the wsl bash in your project's terminal
+    - ensure your project's virtual environment is active
     - type in the following commands in your project's virtual environment
-        - `export AIRFLOW_HOME=~/airflow`
         - `AIRFLOW_VERSION=2.6.2`
         - `PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"`
         - `CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"`
