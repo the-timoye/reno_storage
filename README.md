@@ -17,17 +17,7 @@ data engineering on storage space services
         - `sudo apt-get update`
         - `sudo apt-get install python3-pip`
 
-### For All OS Users
-- Step 3: Install airflow
-    - use the wsl bash in your project's terminal
-    - type in the following commands in your project's virtual environment
-        - `export AIRFLOW_HOME=~/airflow`
-        - `AIRFLOW_VERSION=2.6.2`
-        - `PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"`
-        - `CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"`
-        - `pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"`
-
-- Step 4: Configure Airflow's home
+- Step 3: Configure Airflow's home
     - in your wsl terminal, run:
         - `sudo nano /etc/wsl.conf`
         - in the file that opens, copy and past the below:
@@ -43,12 +33,22 @@ data engineering on storage space services
             ```
         - save the file
 
-- Step 5: Configure Airflow's settings:
-    - 
+### For All OS Users
+- Step 4: Install airflow
+    - use the wsl bash in your project's terminal
+    - type in the following commands in your project's virtual environment
+        - `export AIRFLOW_HOME=~/airflow`
+        - `AIRFLOW_VERSION=2.6.2`
+        - `PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"`
+        - `CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"`
+        - `pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"`
 
-- Step 6: Set-up Airflow
+- Step 5: Set-up Airflow
     - Still n your virtual environment in your project's termnal, run the following code:
         - `airflow db init`
+        - open `airflow/airflow.cfg`
+        - set `load_examples = False`
+        - save and close
         - `airflow users create --username admin --firstname timi --lastname oye --role Admin --email thetimoye@gmail.com`
         - `airflow webserver --port 8080`
     - on another terminal window, run:
